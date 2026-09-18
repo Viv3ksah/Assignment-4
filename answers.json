@@ -1,0 +1,7 @@
+{
+  "q1_naive_nonzero_count": 16000,
+  "q2_affected_count": 985,
+  "q2_affected_category": "fragile + express=True",
+  "q3_total_overcharge": 19779.14,
+  "q4_baseline_mean_abs_diff": 0.00988
+}
